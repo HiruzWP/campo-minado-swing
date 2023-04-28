@@ -17,7 +17,7 @@
 
 <h2>O jogo:</h2>
 
-**•O objetivo do jogo é encontrar todas as minas em um campo de minas.**
+**•O objetivo do jogo é encontrar todas as minas em um campo 30x16.**
 
 **•Cada quadrado no campo pode estar vazio ou conter uma mina.**
 
