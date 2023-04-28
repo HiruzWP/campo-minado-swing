@@ -5,6 +5,8 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
 
+import com.github.cm.model.Tabuleiro;
+
 @SuppressWarnings("serial")
 public class PainelTabuleiro extends JPanel{
 

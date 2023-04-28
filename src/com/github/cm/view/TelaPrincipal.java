@@ -1,6 +1,7 @@
 package com.github.cm.view;
 
 import javax.swing.JFrame;
+import com.github.cm.model.Tabuleiro;
 
 @SuppressWarnings("serial")
 public class TelaPrincipal extends JFrame{
