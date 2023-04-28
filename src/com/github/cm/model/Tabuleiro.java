@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.function.Consumer;
 import java.util.function.Predicate;
 
-public class Tabuleiro {
+public class Tabuleiro implements CampoObservador{
 
 	private final int linhas;
 	private final int colunas;
@@ -133,4 +133,5 @@ public class Tabuleiro {
 		.filter(c -> !c.isMarcado())
 		.forEach(c -> c.setAberto(true));
 	}
+	
 }
