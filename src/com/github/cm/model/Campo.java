@@ -3,8 +3,6 @@ package com.github.cm.model;
 import java.util.ArrayList;
 import java.util.List;
 
-import br.com.minhaempresa.cm.modelo.CampoEvento;
-
 public class Campo {
 
 	private final int LINHA;

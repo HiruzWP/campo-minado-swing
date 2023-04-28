@@ -1,5 +1,7 @@
 package com.github.cm.model;
 
-public class CampoObservador {
+public interface CampoObservador {
 
+	public void eventoOcorreu(Campo campo, CampoEvento evento);
+	
 }
