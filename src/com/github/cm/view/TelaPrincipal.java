@@ -2,10 +2,6 @@ package com.github.cm.view;
 
 import javax.swing.JFrame;
 
-import br.com.minhaempresa.cm.modelo.Tabuleiro;
-import br.com.minhaempresa.cm.visao.PainelTabuleiro;
-import br.com.minhaempresa.cm.visao.TelaPrincipal;
-
 @SuppressWarnings("serial")
 public class TelaPrincipal extends JFrame{
 

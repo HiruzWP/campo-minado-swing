@@ -1,11 +1,11 @@
 package com.github.cm.view;
 
 import java.awt.GridLayout;
-
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
 
+@SuppressWarnings("serial")
 public class PainelTabuleiro extends JPanel{
 
 	public PainelTabuleiro(Tabuleiro tabuleiro) {

@@ -8,6 +8,10 @@ import javax.swing.BorderFactory;
 import javax.swing.JButton;
 import javax.swing.SwingUtilities;
 
+import com.github.cm.model.Campo;
+import com.github.cm.model.CampoEvento;
+import com.github.cm.model.CampoObservador;
+
 @SuppressWarnings("serial")
 public class BotaoCampo extends JButton implements CampoObservador, MouseListener{
 
